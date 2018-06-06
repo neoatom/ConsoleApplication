@@ -12,6 +12,8 @@ namespace ConsoleApplication1 {
    Console.ReadLine();
    Console.WriteLine("What Up!");
    Console.ReadLine();
+   Console.WriteLine("You realy think so!");
+   Console.ReadKey();
 
   }
  }
